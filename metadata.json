@@ -1,0 +1,6 @@
+{
+  "name": "YourPa",
+  "description": "Your Personal Assistant and Adaptive Panic Companion that predicts task durations, analyzes human completion speed, and schedules adaptive reminders to prevent missed deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
